@@ -1,0 +1,15 @@
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\bin\Debug\net6.0\PainterCalculator.exe
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\bin\Debug\net6.0\PainterCalculator.deps.json
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\bin\Debug\net6.0\PainterCalculator.runtimeconfig.json
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\bin\Debug\net6.0\PainterCalculator.dll
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\bin\Debug\net6.0\ref\PainterCalculator.dll
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\bin\Debug\net6.0\PainterCalculator.pdb
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.csproj.AssemblyReference.cache
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.AssemblyInfoInputs.cache
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.AssemblyInfo.cs
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.dll
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\ref\PainterCalculator.dll
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.pdb
+C:\Users\naqas\source\repos\PainterCalculator\PainterCalculator\obj\Debug\net6.0\PainterCalculator.genruntimeconfig.cache

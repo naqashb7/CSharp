@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PaintCalculator\\PaintCalculator.csproj",
-      "projectName": "PaintCalculator",
-      "projectPath": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PaintCalculator\\PaintCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\naqas\\source\\repos\\cSHarpGitDemoCode\\cSHarpGitDemoCode\\cSHarpGitDemoCode.csproj",
+      "projectName": "cSHarpGitDemoCode",
+      "projectPath": "C:\\Users\\naqas\\source\\repos\\cSHarpGitDemoCode\\cSHarpGitDemoCode\\cSHarpGitDemoCode.csproj",
       "packagesPath": "C:\\Users\\naqas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PaintCalculator\\obj\\",
+      "outputPath": "C:\\Users\\naqas\\source\\repos\\cSHarpGitDemoCode\\cSHarpGitDemoCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

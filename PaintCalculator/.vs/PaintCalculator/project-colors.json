@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fe23f01-250d-4911-a351-12cf0d016d03": {
+      "ProjectGuid": "3fe23f01-250d-4911-a351-12cf0d016d03",
+      "DisplayName": "PaintCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PaintCalculator\\PaintCalculator.csproj",
-      "projectName": "PaintCalculator",
-      "projectPath": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PaintCalculator\\PaintCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj",
+      "projectName": "PainterCalculator",
+      "projectPath": "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj",
       "packagesPath": "C:\\Users\\naqas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PaintCalculator\\obj\\",
+      "outputPath": "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
