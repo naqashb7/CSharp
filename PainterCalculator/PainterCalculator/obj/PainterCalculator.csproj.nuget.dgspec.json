@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj": {}
+    "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj": {
+    "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj",
         "projectName": "PainterCalculator",
-        "projectPath": "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj",
+        "projectPath": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PainterCalculator\\PainterCalculator\\PainterCalculator.csproj",
         "packagesPath": "C:\\Users\\naqas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\naqas\\source\\repos\\PainterCalculator\\PainterCalculator\\obj\\",
+        "outputPath": "C:\\Users\\naqas\\OneDrive\\Documents\\TSI\\Csharp\\PainterCalculator\\PainterCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
