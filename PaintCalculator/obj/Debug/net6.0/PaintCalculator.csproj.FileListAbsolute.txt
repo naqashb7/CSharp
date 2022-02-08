@@ -1,0 +1,15 @@
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.csproj.AssemblyReference.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.AssemblyInfoInputs.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.AssemblyInfo.cs
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\bin\Debug\net6.0\PaintCalculator.exe
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\bin\Debug\net6.0\PaintCalculator.deps.json
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\bin\Debug\net6.0\PaintCalculator.runtimeconfig.json
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\bin\Debug\net6.0\PaintCalculator.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\bin\Debug\net6.0\ref\PaintCalculator.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\bin\Debug\net6.0\PaintCalculator.pdb
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\ref\PaintCalculator.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.pdb
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\PaintCalculator\obj\Debug\net6.0\PaintCalculator.genruntimeconfig.cache
