@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de5d5b41-13b5-46d1-97be-d2c75694bb8b": {
+      "ProjectGuid": "de5d5b41-13b5-46d1-97be-d2c75694bb8b",
+      "DisplayName": "AnimalExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

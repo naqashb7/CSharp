@@ -1,0 +1,15 @@
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.csproj.AssemblyReference.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.AssemblyInfoInputs.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.AssemblyInfo.cs
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.csproj.CoreCompileInputs.cache
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\bin\Debug\net6.0\AnimalExample.exe
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\bin\Debug\net6.0\AnimalExample.deps.json
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\bin\Debug\net6.0\AnimalExample.runtimeconfig.json
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\bin\Debug\net6.0\AnimalExample.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\bin\Debug\net6.0\ref\AnimalExample.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\bin\Debug\net6.0\AnimalExample.pdb
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\ref\AnimalExample.dll
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.pdb
+C:\Users\naqas\OneDrive\Documents\TSI\Csharp\AnimalExample\AnimalExample\AnimalExample\obj\Debug\net6.0\AnimalExample.genruntimeconfig.cache

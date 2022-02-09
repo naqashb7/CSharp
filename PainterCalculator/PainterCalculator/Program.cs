@@ -31,7 +31,8 @@ class Calculator
                 if (wallSizeSame.ToLower() != "yes")
                 {
                     Console.WriteLine("Please enter the details for each wall starting with the height and width of the first wall and then the same for consequent walls");
-                   
+
+                    double wallsarea = 0;
                     for(int i = 0; i <totalwalls; i++)
                     {
                         Console.WriteLine("What is the height of the area you will be painting in metres? (please enter a number)");
@@ -39,7 +40,7 @@ class Calculator
                         Console.WriteLine("What is the width of the area you will be painting in metres? (please enter a number");
                         double wallswidth = Convert.ToDouble(Console.ReadLine());
                        
-                        double wallsarea = wallsheight * wallswidth;
+                        wallsarea = wallsheight * wallswidth;
                         Console.WriteLine("The total area for which you will need paint is " + wallsarea + "m^2");
                     }
                 }
@@ -68,8 +69,7 @@ class Calculator
             Console.WriteLine("You have entered that you will not be painting any walls");
         }
 
-        Console.WriteLine("Please enter the above areas with a plus sign (+) between each area if there is more than 1: ");
-        double totalWallPaintArea = Convert.ToDouble(Console.ReadLine());
+        
 
         //total up door area 
 
@@ -83,12 +83,16 @@ class Calculator
                 string doorSizeSame = Console.ReadLine();
                 if (doorSizeSame.ToLower() != "yes")
                 {
-                    for (int i = 0; i <totaldoors; i++)
+                    double doorsarea = 0;
+                    for (int i = 0; i < totaldoors; i++)
                     {
                         Console.WriteLine("What is the height of the area you will be painting in metres? (please enter a number)");
                         double doorsheight = Convert.ToDouble(Console.ReadLine());
                         Console.WriteLine("What is the width of the area you will be painting in metres? (please enter a number");
                         double doorswidth = Convert.ToDouble(Console.ReadLine());
+
+                        doorsarea = doorsheight * doorswidth;
+                        Console.WriteLine("The total area for which you will need paint is " + doorsarea + "m^2");
                     }
 
                 }
